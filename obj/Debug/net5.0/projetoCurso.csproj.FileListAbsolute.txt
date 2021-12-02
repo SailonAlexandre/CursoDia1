@@ -1,0 +1,16 @@
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.exe
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.deps.json
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.runtimeconfig.json
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.runtimeconfig.dev.json
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.dll
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\ref\projetoCurso.dll
+C:\Users\71232\Desktop\Curso\projetoCurso\bin\Debug\net5.0\projetoCurso.pdb
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.csprojAssemblyReference.cache
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.AssemblyInfoInputs.cache
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.AssemblyInfo.cs
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.csproj.CoreCompileInputs.cache
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.dll
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\ref\projetoCurso.dll
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.pdb
+C:\Users\71232\Desktop\Curso\projetoCurso\obj\Debug\net5.0\projetoCurso.genruntimeconfig.cache
